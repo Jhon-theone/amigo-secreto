@@ -3,5 +3,5 @@
 let amigos = [];
 
 function nombreDeAmigos () {
-    
+    document.getElementById('amigo')
 }
