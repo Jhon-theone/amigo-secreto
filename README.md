@@ -31,6 +31,7 @@ Proyecto finalizado.
 
 ##Acceso al proyecto
 
+https://jhon-theone.github.io/amigo-secreto/
 
 ##Tecnologias utilizadas
 - JavaScript.
